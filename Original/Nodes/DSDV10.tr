@@ -1,0 +1,747 @@
+s -t 0.030050775 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 100.000000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 0 -Iv 32 
+s -t 0.030285775 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 100.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 0 -Iv 32 
+N -t 0.030286 -n 7 -e 99.981324
+N -t 0.030286 -n 8 -e 99.981324
+N -t 0.030286 -n 1 -e 99.981324
+N -t 0.030287 -n 6 -e 99.981324
+N -t 0.030287 -n 2 -e 99.981324
+N -t 0.030287 -n 9 -e 99.981324
+N -t 0.030287 -n 3 -e 99.981324
+N -t 0.030287 -n 5 -e 99.981324
+N -t 0.030288 -n 4 -e 99.981323
+r -t 0.031006351 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.981324 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 0 -Iv 32 
+r -t 0.031006419 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.981324 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 0 -Iv 32 
+r -t 0.031006435 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.981324 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 0 -Iv 32 
+r -t 0.031031351 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.981324 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 0 -Iv 32 
+r -t 0.031031419 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.981324 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 0 -Iv 32 
+r -t 0.031031435 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.981324 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 0 -Iv 32 
+s -t 0.184842620 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.981324 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+s -t 0.185397620 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.981324 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 1 -Iv 32 
+N -t 0.185398 -n 7 -e 99.888185
+N -t 0.185398 -n 2 -e 99.888185
+N -t 0.185398 -n 0 -e 99.888041
+N -t 0.185398 -n 3 -e 99.888185
+N -t 0.185399 -n 6 -e 99.888185
+N -t 0.185399 -n 8 -e 99.888185
+N -t 0.185399 -n 4 -e 99.888185
+N -t 0.185399 -n 5 -e 99.888185
+N -t 0.185399 -n 9 -e 99.888185
+r -t 0.186118211 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.888185 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+r -t 0.186118242 -Hs 2 -Hd -1 -Ni 2 -Nx 582.00 -Ny 411.00 -Nz 0.00 -Ne 99.888185 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+r -t 0.186118279 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 99.888041 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+r -t 0.186118450 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 99.888185 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+r -t 0.186143211 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.888185 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+r -t 0.186143242 -Hs 2 -Hd -1 -Ni 2 -Nx 582.00 -Ny 411.00 -Nz 0.00 -Ne 99.888185 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+r -t 0.186143279 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 99.888041 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+r -t 0.186143450 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 99.888185 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 1 -Iv 32 
+s -t 0.477273789 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.888185 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+s -t 0.477568789 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.888185 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 2 -Iv 32 
+N -t 0.477569 -n 9 -e 99.712810
+N -t 0.477569 -n 7 -e 99.712810
+N -t 0.477569 -n 5 -e 99.712810
+N -t 0.477569 -n 2 -e 99.712810
+N -t 0.477569 -n 8 -e 99.712810
+N -t 0.477570 -n 1 -e 99.712666
+N -t 0.477570 -n 0 -e 99.712666
+N -t 0.477570 -n 4 -e 99.712810
+N -t 0.477570 -n 3 -e 99.712810
+r -t 0.478289263 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 99.712810 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478289307 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.712810 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478289396 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 99.712810 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478289457 -Hs 2 -Hd -1 -Ni 2 -Nx 582.00 -Ny 411.00 -Nz 0.00 -Ne 99.712810 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478289460 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.712810 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478314263 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 99.712810 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478314307 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.712810 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478314396 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 99.712810 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478314457 -Hs 2 -Hd -1 -Ni 2 -Nx 582.00 -Ny 411.00 -Nz 0.00 -Ne 99.712810 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+r -t 0.478314460 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.712810 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 2 -Iv 32 
+s -t 0.500000000 -Hs 8 -Hd -2 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.712810 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.0 -Id 3.0 -It tcp -Il 40 -If 0 -Ii 3 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+r -t 0.500000000 -Hs 8 -Hd -2 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.712810 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.0 -Id 3.0 -It tcp -Il 40 -If 0 -Ii 3 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+s -t 0.623344604 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.712810 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+s -t 0.623599604 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.712810 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 4 -Iv 32 
+N -t 0.623600 -n 7 -e 99.625120
+N -t 0.623600 -n 0 -e 99.624976
+N -t 0.623600 -n 6 -e 99.624976
+N -t 0.623600 -n 9 -e 99.625120
+N -t 0.623601 -n 1 -e 99.624976
+N -t 0.623601 -n 2 -e 99.625120
+N -t 0.623601 -n 5 -e 99.625119
+N -t 0.623601 -n 3 -e 99.625119
+N -t 0.623601 -n 4 -e 99.625119
+r -t 0.624320104 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.625120 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+r -t 0.624320247 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 99.624976 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+r -t 0.624320274 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.624976 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+r -t 0.624320434 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 99.625120 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+r -t 0.624345104 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.625120 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+r -t 0.624345247 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 99.624976 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+r -t 0.624345274 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.624976 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+r -t 0.624345434 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 99.625120 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 4 -Iv 32 
+s -t 0.634321795 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 99.625119 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 5 -Iv 32 
+s -t 0.634756795 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 99.625119 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 5 -Iv 32 
+N -t 0.634757 -n 3 -e 99.618354
+N -t 0.634757 -n 5 -e 99.618354
+N -t 0.634757 -n 2 -e 99.618354
+N -t 0.634758 -n 6 -e 99.618209
+N -t 0.634758 -n 1 -e 99.618209
+N -t 0.634758 -n 7 -e 99.618353
+N -t 0.634758 -n 9 -e 99.618353
+N -t 0.634758 -n 8 -e 99.618209
+N -t 0.634759 -n 0 -e 99.618209
+r -t 0.635477307 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 99.618354 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 5 -Iv 32 
+r -t 0.635477480 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 99.618354 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 5 -Iv 32 
+r -t 0.635477492 -Hs 2 -Hd -1 -Ni 2 -Nx 582.00 -Ny 411.00 -Nz 0.00 -Ne 99.618354 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 5 -Iv 32 
+r -t 0.635502307 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 99.618354 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 5 -Iv 32 
+r -t 0.635502480 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 99.618354 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 5 -Iv 32 
+r -t 0.635502492 -Hs 2 -Hd -1 -Ni 2 -Nx 582.00 -Ny 411.00 -Nz 0.00 -Ne 99.618354 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 5 -Iv 32 
+s -t 0.889120254 -Hs 2 -Hd -1 -Ni 2 -Nx 582.00 -Ny 411.00 -Nz 0.00 -Ne 99.618354 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+s -t 0.889335254 -Hs 2 -Hd -1 -Ni 2 -Nx 582.00 -Ny 411.00 -Nz 0.00 -Ne 99.618354 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 6 -Iv 32 
+N -t 0.889336 -n 3 -e 99.465535
+N -t 0.889336 -n 7 -e 99.465534
+N -t 0.889336 -n 1 -e 99.465390
+N -t 0.889336 -n 6 -e 99.465390
+N -t 0.889336 -n 4 -e 99.465390
+N -t 0.889336 -n 5 -e 99.465534
+N -t 0.889336 -n 0 -e 99.465390
+N -t 0.889336 -n 8 -e 99.465390
+N -t 0.889336 -n 9 -e 99.465534
+r -t 0.890055730 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 99.465535 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890055854 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.465534 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890055876 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.465390 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890055921 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.465390 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890055950 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 99.465390 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890055970 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 99.465534 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890080730 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 99.465535 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890080854 -Hs 7 -Hd -1 -Ni 7 -Nx 416.00 -Ny 341.00 -Nz 0.00 -Ne 99.465534 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890080876 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.465390 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890080921 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.465390 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890080950 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 99.465390 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+r -t 0.890080970 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 99.465534 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 6 -Iv 32 
+M 1.00000 2 (582.00, 411.00, 0.00), (750.00, 350.00), 20.00
+M 1.00000 7 (416.00, 341.00, 0.00), (650.00, 280.00), 10.00
+s -t 1.000000000 -Hs 0 -Hd -2 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 99.465390 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 0.0 -Id 5.0 -It tcp -Il 40 -If 0 -Ii 7 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+r -t 1.000000000 -Hs 0 -Hd -2 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 99.465390 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 0.0 -Id 5.0 -It tcp -Il 40 -If 0 -Ii 7 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+s -t 1.278822271 -Hs 7 -Hd -1 -Ni 7 -Nx 418.70 -Ny 340.30 -Nz 0.00 -Ne 99.465534 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+s -t 1.278997271 -Hs 7 -Hd -1 -Ni 7 -Nx 418.70 -Ny 340.30 -Nz 0.00 -Ne 99.465534 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 8 -Iv 32 
+N -t 1.278998 -n 8 -e 99.231521
+N -t 1.278998 -n 6 -e 99.231521
+N -t 1.278998 -n 0 -e 99.231521
+N -t 1.278998 -n 1 -e 99.231521
+N -t 1.278998 -n 2 -e 99.231521
+N -t 1.278998 -n 9 -e 99.231665
+N -t 1.278998 -n 5 -e 99.231665
+N -t 1.278998 -n 3 -e 99.231665
+N -t 1.278999 -n 4 -e 99.231521
+r -t 1.279717776 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.231521 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279717782 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.231521 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279717856 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 99.231521 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279717865 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.231521 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279717878 -Hs 2 -Hd -1 -Ni 2 -Nx 587.26 -Ny 409.09 -Nz 0.00 -Ne 99.231521 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279742776 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 99.231521 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279742782 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.231521 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279742856 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 99.231521 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279742865 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.231521 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+r -t 1.279742878 -Hs 2 -Hd -1 -Ni 2 -Nx 587.26 -Ny 409.09 -Nz 0.00 -Ne 99.231521 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 8 -Iv 32 
+s -t 1.607773557 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 99.231665 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 9 -Iv 32 
+s -t 1.608428557 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 99.231665 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 9 -Iv 32 
+N -t 1.608429 -n 2 -e 99.033791
+N -t 1.608429 -n 4 -e 99.033791
+N -t 1.608429 -n 1 -e 99.033790
+N -t 1.608430 -n 5 -e 99.033934
+N -t 1.608430 -n 7 -e 99.033790
+N -t 1.608430 -n 6 -e 99.033790
+N -t 1.608430 -n 0 -e 99.033790
+N -t 1.608430 -n 8 -e 99.033790
+N -t 1.608430 -n 9 -e 99.033934
+r -t 1.609149019 -Hs 2 -Hd -1 -Ni 2 -Nx 593.45 -Ny 406.84 -Nz 0.00 -Ne 99.033791 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 9 -Iv 32 
+r -t 1.609149068 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 99.033791 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 9 -Iv 32 
+r -t 1.609149387 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.033790 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 9 -Iv 32 
+r -t 1.609174019 -Hs 2 -Hd -1 -Ni 2 -Nx 593.45 -Ny 406.84 -Nz 0.00 -Ne 99.033791 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 9 -Iv 32 
+r -t 1.609174068 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 99.033791 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 9 -Iv 32 
+r -t 1.609174387 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 99.033790 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 9 -Iv 32 
+s -t 1.633060186 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 99.033934 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+s -t 1.633635186 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 99.033934 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 10 -Iv 32 
+N -t 1.633636 -n 6 -e 99.018595
+N -t 1.633636 -n 2 -e 99.018594
+N -t 1.633636 -n 4 -e 99.018594
+N -t 1.633636 -n 9 -e 99.018738
+N -t 1.633636 -n 3 -e 99.018594
+N -t 1.633636 -n 7 -e 99.018594
+N -t 1.633636 -n 8 -e 99.018594
+N -t 1.633636 -n 1 -e 99.018594
+N -t 1.633637 -n 0 -e 99.018594
+r -t 1.634355793 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.018595 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+r -t 1.634355870 -Hs 2 -Hd -1 -Ni 2 -Nx 593.93 -Ny 406.67 -Nz 0.00 -Ne 99.018594 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+r -t 1.634355870 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 99.018594 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+r -t 1.634355978 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 99.018738 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+r -t 1.634380793 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 99.018595 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+r -t 1.634380870 -Hs 2 -Hd -1 -Ni 2 -Nx 593.93 -Ny 406.67 -Nz 0.00 -Ne 99.018594 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+r -t 1.634380870 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 99.018594 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+r -t 1.634380978 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 99.018738 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 10 -Iv 32 
+s -t 1.679333313 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 99.018738 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 11 -Iv 32 
+s -t 1.679888313 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 99.018738 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 11 -Iv 32 
+N -t 1.679889 -n 6 -e 98.990771
+N -t 1.679889 -n 5 -e 98.990771
+N -t 1.679889 -n 8 -e 98.990771
+N -t 1.679889 -n 7 -e 98.990770
+N -t 1.679889 -n 2 -e 98.990770
+N -t 1.679890 -n 0 -e 98.990770
+N -t 1.679890 -n 4 -e 98.990770
+N -t 1.679890 -n 1 -e 98.990770
+N -t 1.679890 -n 3 -e 98.990770
+r -t 1.680608786 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 98.990771 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 11 -Iv 32 
+r -t 1.680609104 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 98.990771 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 11 -Iv 32 
+r -t 1.680609143 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 98.990771 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 11 -Iv 32 
+r -t 1.680633786 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 98.990771 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 11 -Iv 32 
+r -t 1.680634104 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 98.990771 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 11 -Iv 32 
+r -t 1.680634143 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 98.990771 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 11 -Iv 32 
+s -t 3.500000000 -Hs 8 -Hd -2 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 98.990771 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.0 -Id 3.0 -It tcp -Il 40 -If 0 -Ii 12 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+r -t 3.500000000 -Hs 8 -Hd -2 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 98.990771 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.0 -Id 3.0 -It tcp -Il 40 -If 0 -Ii 12 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+s -t 4.000000000 -Hs 0 -Hd -2 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 98.990770 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 0.0 -Id 5.0 -It tcp -Il 40 -If 0 -Ii 13 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+r -t 4.000000000 -Hs 0 -Hd -2 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 98.990770 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 0.0 -Id 5.0 -It tcp -Il 40 -If 0 -Ii 13 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+s -t 9.500000000 -Hs 8 -Hd -2 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 98.990771 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.0 -Id 3.0 -It tcp -Il 40 -If 0 -Ii 14 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+r -t 9.500000000 -Hs 8 -Hd -2 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 98.990771 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.0 -Id 3.0 -It tcp -Il 40 -If 0 -Ii 14 -Iv 32 -Pn tcp -Ps 0 -Pa 0 -Pf 0 -Po 0 
+s -t 11.447655470 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 98.990770 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 15 -Iv 32 
+s -t 11.447890470 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 98.990770 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 15 -Iv 32 
+N -t 11.447891 -n 8 -e 93.129897
+N -t 11.447891 -n 1 -e 93.129897
+N -t 11.447891 -n 7 -e 93.129897
+N -t 11.447892 -n 6 -e 93.129897
+N -t 11.447892 -n 9 -e 93.129897
+N -t 11.447892 -n 3 -e 93.129897
+N -t 11.447892 -n 5 -e 93.129897
+N -t 11.447892 -n 2 -e 93.129897
+N -t 11.447892 -n 4 -e 93.129897
+r -t 11.448611113 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 93.129897 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 15 -Iv 32 
+r -t 11.448611129 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 93.129897 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 15 -Iv 32 
+r -t 11.448636113 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 93.129897 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 15 -Iv 32 
+r -t 11.448636129 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 93.129897 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 15 -Iv 32 
+s -t 12.031306926 -Hs 7 -Hd -1 -Ni 7 -Nx 522.75 -Ny 313.17 -Nz 0.00 -Ne 93.129897 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+s -t 12.031681926 -Hs 7 -Hd -1 -Ni 7 -Nx 522.75 -Ny 313.17 -Nz 0.00 -Ne 93.129897 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 16 -Iv 32 
+N -t 12.031682 -n 6 -e 92.779551
+N -t 12.031683 -n 5 -e 92.779550
+N -t 12.031683 -n 8 -e 92.779550
+N -t 12.031683 -n 1 -e 92.779550
+N -t 12.031683 -n 2 -e 92.779550
+N -t 12.031683 -n 9 -e 92.779550
+N -t 12.031683 -n 3 -e 92.779550
+N -t 12.031683 -n 0 -e 92.779406
+N -t 12.031683 -n 4 -e 92.779550
+r -t 12.032402230 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.779551 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032402572 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.779550 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032402672 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.779550 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032402677 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.779550 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032402693 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.779550 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032402703 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.779550 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032427230 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.779551 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032427572 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.779550 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032427672 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.779550 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032427677 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.779550 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032427693 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.779550 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+r -t 12.032427703 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.779550 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 16 -Iv 32 
+s -t 12.193993113 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.779550 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+s -t 12.194348113 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.779550 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 19 -Iv 32 
+N -t 12.194348 -n 4 -e 92.681879
+N -t 12.194349 -n 5 -e 92.681879
+N -t 12.194349 -n 3 -e 92.681879
+N -t 12.194349 -n 7 -e 92.681735
+N -t 12.194349 -n 6 -e 92.681879
+N -t 12.194349 -n 9 -e 92.681878
+N -t 12.194349 -n 1 -e 92.681878
+N -t 12.194350 -n 8 -e 92.681878
+N -t 12.194350 -n 0 -e 92.681734
+r -t 12.195068364 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.681879 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+r -t 12.195068549 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.681879 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+r -t 12.195068719 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.681879 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+r -t 12.195068875 -Hs 7 -Hd -1 -Ni 7 -Nx 524.33 -Ny 312.76 -Nz 0.00 -Ne 92.681735 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+r -t 12.195093364 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.681879 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+r -t 12.195093549 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.681879 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+r -t 12.195093719 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.681879 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+r -t 12.195093875 -Hs 7 -Hd -1 -Ni 7 -Nx 524.33 -Ny 312.76 -Nz 0.00 -Ne 92.681735 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 19 -Iv 32 
+s -t 12.195611612 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.681879 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 20 -Iv 32 
+s -t 12.196166612 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.681879 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 20 -Iv 32 
+N -t 12.196167 -n 4 -e 92.680716
+N -t 12.196167 -n 2 -e 92.680572
+N -t 12.196167 -n 1 -e 92.680716
+N -t 12.196167 -n 7 -e 92.680572
+N -t 12.196168 -n 5 -e 92.680715
+N -t 12.196168 -n 6 -e 92.680715
+N -t 12.196168 -n 0 -e 92.680571
+N -t 12.196168 -n 8 -e 92.680715
+N -t 12.196168 -n 9 -e 92.680715
+r -t 12.196887123 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.680716 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 20 -Iv 32 
+r -t 12.196887218 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.680572 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 20 -Iv 32 
+r -t 12.196887442 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.680716 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 20 -Iv 32 
+r -t 12.196912123 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.680716 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 20 -Iv 32 
+r -t 12.196912218 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.680572 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 20 -Iv 32 
+r -t 12.196912442 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.680716 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 20 -Iv 32 
+s -t 12.448648980 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.680571 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 21 -Iv 32 
+s -t 12.449023980 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.680571 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 21 -Iv 32 
+N -t 12.449025 -n 8 -e 92.528929
+N -t 12.449025 -n 1 -e 92.528929
+N -t 12.449025 -n 7 -e 92.528785
+N -t 12.449025 -n 6 -e 92.528929
+N -t 12.449025 -n 9 -e 92.528929
+N -t 12.449025 -n 3 -e 92.528785
+N -t 12.449026 -n 5 -e 92.528929
+N -t 12.449026 -n 2 -e 92.528785
+N -t 12.449026 -n 4 -e 92.528929
+r -t 12.449744623 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.528929 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 21 -Iv 32 
+r -t 12.449744640 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.528929 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 21 -Iv 32 
+r -t 12.449769623 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.528929 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 21 -Iv 32 
+r -t 12.449769640 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.528929 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 21 -Iv 32 
+s -t 12.478815597 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.528929 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+s -t 12.478990597 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.528929 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 22 -Iv 32 
+N -t 12.478991 -n 6 -e 92.510877
+N -t 12.478991 -n 7 -e 92.510733
+N -t 12.478991 -n 5 -e 92.510877
+N -t 12.478991 -n 8 -e 92.510877
+N -t 12.478992 -n 2 -e 92.510733
+N -t 12.478992 -n 0 -e 92.510589
+N -t 12.478992 -n 4 -e 92.510877
+N -t 12.478992 -n 1 -e 92.510877
+N -t 12.478992 -n 3 -e 92.510733
+r -t 12.479711070 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.510877 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+r -t 12.479711371 -Hs 7 -Hd -1 -Ni 7 -Nx 527.08 -Ny 312.04 -Nz 0.00 -Ne 92.510733 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+r -t 12.479711388 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.510877 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+r -t 12.479711427 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.510877 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+r -t 12.479736070 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.510877 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+r -t 12.479736371 -Hs 7 -Hd -1 -Ni 7 -Nx 527.08 -Ny 312.04 -Nz 0.00 -Ne 92.510733 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+r -t 12.479736388 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.510877 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+r -t 12.479736427 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.510877 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 22 -Iv 32 
+s -t 12.483643445 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.510877 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+s -t 12.483978445 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.510877 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 24 -Iv 32 
+N -t 12.483979 -n 0 -e 92.507525
+N -t 12.483979 -n 6 -e 92.507813
+N -t 12.483979 -n 7 -e 92.507668
+N -t 12.483979 -n 9 -e 92.507668
+N -t 12.483979 -n 1 -e 92.507812
+N -t 12.483980 -n 5 -e 92.507812
+N -t 12.483980 -n 2 -e 92.507668
+N -t 12.483980 -n 3 -e 92.507668
+N -t 12.483980 -n 4 -e 92.507812
+r -t 12.484699089 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.507525 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+r -t 12.484699116 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.507813 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+r -t 12.484699203 -Hs 7 -Hd -1 -Ni 7 -Nx 527.13 -Ny 312.03 -Nz 0.00 -Ne 92.507668 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+r -t 12.484699276 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.507668 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+r -t 12.484724089 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.507525 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+r -t 12.484724116 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.507813 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+r -t 12.484724203 -Hs 7 -Hd -1 -Ni 7 -Nx 527.13 -Ny 312.03 -Nz 0.00 -Ne 92.507668 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+r -t 12.484724276 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.507668 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 24 -Iv 32 
+s -t 12.486965451 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.507812 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+s -t 12.487100451 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.507812 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 23 -Iv 32 
+N -t 12.487101 -n 2 -e 92.505723
+N -t 12.487101 -n 6 -e 92.505867
+N -t 12.487101 -n 7 -e 92.505723
+N -t 12.487101 -n 4 -e 92.505867
+N -t 12.487101 -n 9 -e 92.505723
+N -t 12.487101 -n 3 -e 92.505723
+N -t 12.487102 -n 8 -e 92.505723
+N -t 12.487102 -n 1 -e 92.505867
+N -t 12.487102 -n 0 -e 92.505579
+r -t 12.487820887 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.505723 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487821059 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.505867 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487821083 -Hs 7 -Hd -1 -Ni 7 -Nx 527.16 -Ny 312.02 -Nz 0.00 -Ne 92.505723 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487821136 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.505867 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487821243 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.505723 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487845887 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.505723 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487846059 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.505867 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487846083 -Hs 7 -Hd -1 -Ni 7 -Nx 527.16 -Ny 312.02 -Nz 0.00 -Ne 92.505723 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487846136 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.505867 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+r -t 12.487846243 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.505723 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 23 -Iv 32 
+s -t 12.633091737 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.505867 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+s -t 12.633286737 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.505867 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 25 -Iv 32 
+N -t 12.633287 -n 7 -e 92.417940
+N -t 12.633287 -n 9 -e 92.417940
+N -t 12.633287 -n 5 -e 92.417940
+N -t 12.633287 -n 8 -e 92.417940
+N -t 12.633288 -n 2 -e 92.417939
+N -t 12.633288 -n 1 -e 92.418083
+N -t 12.633288 -n 0 -e 92.417795
+N -t 12.633288 -n 4 -e 92.418083
+N -t 12.633288 -n 3 -e 92.417939
+r -t 12.634007039 -Hs 7 -Hd -1 -Ni 7 -Nx 528.58 -Ny 311.65 -Nz 0.00 -Ne 92.417940 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+r -t 12.634007211 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.417940 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+r -t 12.634007344 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.417940 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+r -t 12.634007408 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.417940 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+r -t 12.634032039 -Hs 7 -Hd -1 -Ni 7 -Nx 528.58 -Ny 311.65 -Nz 0.00 -Ne 92.417940 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+r -t 12.634032211 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.417940 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+r -t 12.634032344 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.417940 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+r -t 12.634032408 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.417940 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 25 -Iv 32 
+s -t 12.698291635 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.418083 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 26 -Iv 32 
+s -t 12.698966635 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.418083 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 26 -Iv 32 
+N -t 12.698967 -n 2 -e 92.378460
+N -t 12.698967 -n 3 -e 92.378460
+N -t 12.698967 -n 5 -e 92.378460
+N -t 12.698968 -n 7 -e 92.378459
+N -t 12.698968 -n 6 -e 92.378459
+N -t 12.698968 -n 1 -e 92.378603
+N -t 12.698968 -n 9 -e 92.378459
+N -t 12.698968 -n 8 -e 92.378459
+N -t 12.698968 -n 0 -e 92.378315
+r -t 12.699686885 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.378460 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 26 -Iv 32 
+r -t 12.699687147 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.378460 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 26 -Iv 32 
+r -t 12.699687319 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.378460 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 26 -Iv 32 
+r -t 12.699711885 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.378460 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 26 -Iv 32 
+r -t 12.699712147 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.378460 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 26 -Iv 32 
+r -t 12.699712319 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.378460 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 26 -Iv 32 
+s -t 12.897918626 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.378603 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 27 -Iv 32 
+s -t 12.898293626 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.378603 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 27 -Iv 32 
+N -t 12.898294 -n 0 -e 92.258647
+N -t 12.898294 -n 7 -e 92.258791
+N -t 12.898294 -n 3 -e 92.258791
+N -t 12.898295 -n 6 -e 92.258791
+N -t 12.898295 -n 8 -e 92.258791
+N -t 12.898295 -n 2 -e 92.258791
+N -t 12.898295 -n 4 -e 92.258791
+N -t 12.898295 -n 5 -e 92.258791
+N -t 12.898295 -n 9 -e 92.258791
+r -t 12.899014286 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.258647 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 27 -Iv 32 
+r -t 12.899014396 -Hs 7 -Hd -1 -Ni 7 -Nx 531.14 -Ny 310.98 -Nz 0.00 -Ne 92.258791 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 27 -Iv 32 
+r -t 12.899014456 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.258791 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 27 -Iv 32 
+r -t 12.899039286 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.258647 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 27 -Iv 32 
+r -t 12.899039396 -Hs 7 -Hd -1 -Ni 7 -Nx 531.14 -Ny 310.98 -Nz 0.00 -Ne 92.258791 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 27 -Iv 32 
+r -t 12.899039456 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.258791 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 27 -Iv 32 
+s -t 13.019021879 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.258792 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 28 -Iv 32 
+s -t 13.019136879 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.258792 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 102 -If 0 -Ii 28 -Iv 32 
+N -t 13.019138 -n 0 -e 92.186002
+N -t 13.019138 -n 7 -e 92.186146
+N -t 13.019138 -n 3 -e 92.186146
+N -t 13.019138 -n 6 -e 92.186146
+N -t 13.019138 -n 8 -e 92.186146
+N -t 13.019138 -n 2 -e 92.186146
+N -t 13.019138 -n 4 -e 92.186146
+N -t 13.019138 -n 5 -e 92.186146
+N -t 13.019138 -n 9 -e 92.186146
+r -t 13.019953539 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.186002 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 28 -Iv 32 
+r -t 13.019953651 -Hs 7 -Hd -1 -Ni 7 -Nx 532.31 -Ny 310.68 -Nz 0.00 -Ne 92.186146 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 28 -Iv 32 
+r -t 13.019953709 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.186146 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 28 -Iv 32 
+r -t 13.019978539 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.186002 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 28 -Iv 32 
+r -t 13.019978651 -Hs 7 -Hd -1 -Ni 7 -Nx 532.31 -Ny 310.68 -Nz 0.00 -Ne 92.186146 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 28 -Iv 32 
+r -t 13.019978709 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.186146 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 28 -Iv 32 
+s -t 13.027816648 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.186146 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+s -t 13.028051648 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.186146 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 114 -If 0 -Ii 29 -Iv 32 
+N -t 13.028052 -n 7 -e 92.180649
+N -t 13.028052 -n 9 -e 92.180649
+N -t 13.028052 -n 5 -e 92.180649
+N -t 13.028052 -n 8 -e 92.180649
+N -t 13.028053 -n 2 -e 92.180648
+N -t 13.028053 -n 1 -e 92.180485
+N -t 13.028053 -n 0 -e 92.180504
+N -t 13.028053 -n 4 -e 92.180648
+N -t 13.028053 -n 3 -e 92.180648
+r -t 13.028963949 -Hs 7 -Hd -1 -Ni 7 -Nx 532.40 -Ny 310.66 -Nz 0.00 -Ne 92.180649 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+r -t 13.028964122 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.180649 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+r -t 13.028964256 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.180649 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+r -t 13.028964319 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.180649 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+r -t 13.028988949 -Hs 7 -Hd -1 -Ni 7 -Nx 532.40 -Ny 310.66 -Nz 0.00 -Ne 92.180649 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+r -t 13.028989122 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.180649 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+r -t 13.028989256 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.180649 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+r -t 13.028989319 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.180649 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 29 -Iv 32 
+s -t 13.031359274 -Hs 7 -Hd -1 -Ni 7 -Nx 532.42 -Ny 310.65 -Nz 0.00 -Ne 92.180649 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+s -t 13.031554274 -Hs 7 -Hd -1 -Ni 7 -Nx 532.42 -Ny 310.65 -Nz 0.00 -Ne 92.180649 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 114 -If 0 -Ii 30 -Iv 32 
+N -t 13.031555 -n 6 -e 92.178274
+N -t 13.031555 -n 5 -e 92.178456
+N -t 13.031555 -n 2 -e 92.178456
+N -t 13.031555 -n 9 -e 92.178456
+N -t 13.031555 -n 1 -e 92.178293
+N -t 13.031555 -n 8 -e 92.178456
+N -t 13.031555 -n 3 -e 92.178456
+N -t 13.031555 -n 4 -e 92.178456
+N -t 13.031555 -n 0 -e 92.178312
+r -t 13.032466575 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.178274 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032466888 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.178456 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032467011 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.178456 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032467046 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.178456 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032467047 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.178293 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032467047 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.178456 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032491575 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 92.178274 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032491888 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.178456 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032492011 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.178456 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032492046 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 92.178456 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032492047 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.178293 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+r -t 13.032492047 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 92.178456 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 30 -Iv 32 
+s -t 13.186176745 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.178456 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+s -t 13.186391745 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.178456 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 102 -If 0 -Ii 31 -Iv 32 
+N -t 13.186392 -n 4 -e 92.085530
+N -t 13.186392 -n 5 -e 92.085529
+N -t 13.186392 -n 3 -e 92.085529
+N -t 13.186392 -n 7 -e 92.085347
+N -t 13.186393 -n 6 -e 92.085347
+N -t 13.186393 -n 9 -e 92.085529
+N -t 13.186393 -n 1 -e 92.085366
+N -t 13.186393 -n 8 -e 92.085529
+N -t 13.186393 -n 0 -e 92.085385
+r -t 13.187207995 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.085530 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+r -t 13.187208181 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.085529 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+r -t 13.187208351 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.085529 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+r -t 13.187208477 -Hs 7 -Hd -1 -Ni 7 -Nx 533.93 -Ny 310.26 -Nz 0.00 -Ne 92.085347 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+r -t 13.187232995 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.085530 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+r -t 13.187233181 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 92.085529 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+r -t 13.187233351 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.085529 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+r -t 13.187233477 -Hs 7 -Hd -1 -Ni 7 -Nx 533.93 -Ny 310.26 -Nz 0.00 -Ne 92.085347 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 31 -Iv 32 
+s -t 13.189360798 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.085529 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 32 -Iv 32 
+s -t 13.189755798 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 92.085529 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 32 -Iv 32 
+N -t 13.189756 -n 4 -e 92.083497
+N -t 13.189756 -n 2 -e 92.083333
+N -t 13.189757 -n 1 -e 92.083333
+N -t 13.189757 -n 7 -e 92.083314
+N -t 13.189757 -n 5 -e 92.083496
+N -t 13.189757 -n 6 -e 92.083314
+N -t 13.189757 -n 0 -e 92.083352
+N -t 13.189757 -n 8 -e 92.083496
+N -t 13.189757 -n 9 -e 92.083496
+r -t 13.190476310 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.083497 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 32 -Iv 32 
+r -t 13.190476404 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.083333 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 32 -Iv 32 
+r -t 13.190476628 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.083333 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 32 -Iv 32 
+r -t 13.190501310 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 92.083497 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 32 -Iv 32 
+r -t 13.190501404 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 92.083333 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 32 -Iv 32 
+r -t 13.190501628 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 92.083333 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 32 -Iv 32 
+s -t 13.439208327 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.083352 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 0.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 33 -Iv 32 
+s -t 13.439603327 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 92.083352 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 102 -If 0 -Ii 33 -Iv 32 
+N -t 13.439604 -n 8 -e 91.933449
+N -t 13.439604 -n 1 -e 91.933286
+N -t 13.439604 -n 7 -e 91.933266
+N -t 13.439604 -n 6 -e 91.933266
+N -t 13.439605 -n 9 -e 91.933448
+N -t 13.439605 -n 3 -e 91.933304
+N -t 13.439605 -n 5 -e 91.933448
+N -t 13.439605 -n 2 -e 91.933285
+N -t 13.439605 -n 4 -e 91.933448
+r -t 13.440419970 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.933449 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 33 -Iv 32 
+r -t 13.440419987 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 91.933286 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 33 -Iv 32 
+r -t 13.440444970 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.933449 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 33 -Iv 32 
+r -t 13.440444987 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 91.933286 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 800 -Is 0.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 33 -Iv 32 
+s -t 13.482827074 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.933449 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+s -t 13.482902074 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.933449 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 36 -Iv 32 
+N -t 13.482903 -n 0 -e 91.907148
+N -t 13.482903 -n 6 -e 91.907273
+N -t 13.482903 -n 7 -e 91.907273
+N -t 13.482903 -n 9 -e 91.907455
+N -t 13.482903 -n 1 -e 91.907292
+N -t 13.482903 -n 5 -e 91.907455
+N -t 13.482904 -n 2 -e 91.907291
+N -t 13.482904 -n 3 -e 91.907311
+N -t 13.482904 -n 4 -e 91.907455
+s -t 13.483521865 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.907455 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.483622718 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 91.907148 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+r -t 13.483622745 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.907273 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+r -t 13.483622860 -Hs 7 -Hd -1 -Ni 7 -Nx 536.80 -Ny 309.51 -Nz 0.00 -Ne 91.907273 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+r -t 13.483622905 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.907455 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+r -t 13.483647718 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 91.907148 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+r -t 13.483647745 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.907273 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+r -t 13.483647860 -Hs 7 -Hd -1 -Ni 7 -Nx 536.80 -Ny 309.51 -Nz 0.00 -Ne 91.907273 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+r -t 13.483647905 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.907455 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 36 -Iv 32 
+s -t 13.484097351 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.907455 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 35 -Iv 32 
+N -t 13.484098 -n 2 -e 91.906503
+N -t 13.484098 -n 7 -e 91.906484
+N -t 13.484098 -n 6 -e 91.906484
+N -t 13.484098 -n 4 -e 91.906666
+N -t 13.484098 -n 9 -e 91.906666
+N -t 13.484098 -n 3 -e 91.906522
+N -t 13.484099 -n 8 -e 91.906522
+N -t 13.484099 -n 1 -e 91.906502
+N -t 13.484099 -n 0 -e 91.906358
+r -t 13.484817787 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 91.906503 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484817950 -Hs 7 -Hd -1 -Ni 7 -Nx 536.81 -Ny 309.51 -Nz 0.00 -Ne 91.906484 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484817958 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.906484 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484818035 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 91.906666 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484818142 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.906666 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484842787 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 91.906503 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484842950 -Hs 7 -Hd -1 -Ni 7 -Nx 536.81 -Ny 309.51 -Nz 0.00 -Ne 91.906484 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484842958 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.906484 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484843035 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 91.906666 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+r -t 13.484843142 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.906666 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 35 -Iv 32 
+s -t 13.486210546 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.906666 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+s -t 13.486705546 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.906666 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 34 -Iv 32 
+N -t 13.486706 -n 6 -e 91.904847
+N -t 13.486706 -n 7 -e 91.904847
+N -t 13.486706 -n 5 -e 91.904885
+N -t 13.486706 -n 8 -e 91.904885
+N -t 13.486707 -n 2 -e 91.904866
+N -t 13.486707 -n 0 -e 91.904721
+N -t 13.486707 -n 4 -e 91.905029
+N -t 13.486707 -n 1 -e 91.904865
+N -t 13.486707 -n 3 -e 91.904885
+r -t 13.487426020 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.904847 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+r -t 13.487426315 -Hs 7 -Hd -1 -Ni 7 -Nx 536.84 -Ny 309.50 -Nz 0.00 -Ne 91.904847 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+r -t 13.487426338 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.904885 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+r -t 13.487426377 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.904885 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+r -t 13.487451020 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.904847 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+r -t 13.487451315 -Hs 7 -Hd -1 -Ni 7 -Nx 536.84 -Ny 309.50 -Nz 0.00 -Ne 91.904847 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+r -t 13.487451338 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.904885 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+r -t 13.487451377 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.904885 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 34 -Iv 32 
+s -t 13.625087023 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.904885 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+s -t 13.625422023 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.904885 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 102 -If 0 -Ii 37 -Iv 32 
+N -t 13.625423 -n 0 -e 91.821353
+N -t 13.625423 -n 6 -e 91.821478
+N -t 13.625423 -n 7 -e 91.821478
+N -t 13.625423 -n 9 -e 91.821516
+N -t 13.625423 -n 1 -e 91.821497
+N -t 13.625423 -n 5 -e 91.821516
+N -t 13.625424 -n 2 -e 91.821496
+N -t 13.625424 -n 3 -e 91.821515
+N -t 13.625424 -n 4 -e 91.821659
+r -t 13.626238667 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 91.821353 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+r -t 13.626238694 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.821478 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+r -t 13.626238813 -Hs 7 -Hd -1 -Ni 7 -Nx 538.18 -Ny 309.15 -Nz 0.00 -Ne 91.821478 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+r -t 13.626238854 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.821516 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+r -t 13.626263667 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 91.821353 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+r -t 13.626263694 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.821478 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+r -t 13.626263813 -Hs 7 -Hd -1 -Ni 7 -Nx 538.18 -Ny 309.15 -Nz 0.00 -Ne 91.821478 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+r -t 13.626263854 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.821516 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 8 -Mt 800 -Is 8.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 37 -Iv 32 
+s -t 13.694346307 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 91.821659 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 4.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 38 -Iv 32 
+s -t 13.694801307 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 91.821659 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 114 -If 0 -Ii 38 -Iv 32 
+N -t 13.694802 -n 2 -e 91.779721
+N -t 13.694802 -n 3 -e 91.779740
+N -t 13.694802 -n 5 -e 91.779740
+N -t 13.694802 -n 7 -e 91.779701
+N -t 13.694802 -n 6 -e 91.779701
+N -t 13.694803 -n 1 -e 91.779720
+N -t 13.694803 -n 9 -e 91.779739
+N -t 13.694803 -n 8 -e 91.779576
+N -t 13.694803 -n 0 -e 91.779576
+r -t 13.695713557 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 91.779721 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 38 -Iv 32 
+r -t 13.695713819 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 91.779740 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 38 -Iv 32 
+r -t 13.695713991 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.779740 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 38 -Iv 32 
+r -t 13.695738557 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 91.779721 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 38 -Iv 32 
+r -t 13.695738819 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 91.779740 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 38 -Iv 32 
+r -t 13.695738991 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.779740 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 4 -Mt 800 -Is 4.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 38 -Iv 32 
+s -t 13.895341605 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.779739 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+s -t 13.895736605 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.779739 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 102 -If 0 -Ii 39 -Iv 32 
+N -t 13.895737 -n 6 -e 91.659116
+N -t 13.895737 -n 7 -e 91.659116
+N -t 13.895737 -n 5 -e 91.659154
+N -t 13.895737 -n 8 -e 91.658991
+N -t 13.895738 -n 2 -e 91.659135
+N -t 13.895738 -n 0 -e 91.658991
+N -t 13.895738 -n 4 -e 91.659116
+N -t 13.895738 -n 1 -e 91.659135
+N -t 13.895738 -n 3 -e 91.659154
+r -t 13.896553078 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.659116 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+r -t 13.896553372 -Hs 7 -Hd -1 -Ni 7 -Nx 540.79 -Ny 308.47 -Nz 0.00 -Ne 91.659116 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+r -t 13.896553396 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.659154 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+r -t 13.896553435 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.658991 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+r -t 13.896578078 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.659116 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+r -t 13.896578372 -Hs 7 -Hd -1 -Ni 7 -Nx 540.80 -Ny 308.47 -Nz 0.00 -Ne 91.659116 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+r -t 13.896578396 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.659154 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+r -t 13.896578435 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.658991 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 9 -Mt 800 -Is 9.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 39 -Iv 32 
+s -t 14.017313510 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 91.659135 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 40 -Iv 32 
+s -t 14.017568510 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 91.659135 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 102 -If 0 -Ii 40 -Iv 32 
+N -t 14.017569 -n 0 -e 91.585810
+N -t 14.017569 -n 7 -e 91.585935
+N -t 14.017569 -n 3 -e 91.585974
+N -t 14.017570 -n 6 -e 91.585935
+N -t 14.017570 -n 8 -e 91.585810
+N -t 14.017570 -n 2 -e 91.585954
+N -t 14.017570 -n 4 -e 91.585935
+N -t 14.017570 -n 5 -e 91.585973
+N -t 14.017570 -n 9 -e 91.585810
+r -t 14.018385170 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 91.585810 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 40 -Iv 32 
+r -t 14.018385305 -Hs 7 -Hd -1 -Ni 7 -Nx 541.97 -Ny 308.16 -Nz 0.00 -Ne 91.585935 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 40 -Iv 32 
+r -t 14.018385340 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 91.585974 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 40 -Iv 32 
+r -t 14.018410170 -Hs 0 -Hd -1 -Ni 0 -Nx 260.00 -Ny 415.00 -Nz 0.00 -Ne 91.585810 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 40 -Iv 32 
+r -t 14.018410305 -Hs 7 -Hd -1 -Ni 7 -Nx 541.97 -Ny 308.16 -Nz 0.00 -Ne 91.585935 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 40 -Iv 32 
+r -t 14.018410340 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 91.585974 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 800 -Is 1.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 40 -Iv 32 
+s -t 14.035695798 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.585935 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+s -t 14.035770798 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.585935 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 102 -If 0 -Ii 41 -Iv 32 
+N -t 14.035771 -n 7 -e 91.574933
+N -t 14.035771 -n 9 -e 91.574808
+N -t 14.035771 -n 5 -e 91.574971
+N -t 14.035771 -n 8 -e 91.574808
+N -t 14.035772 -n 2 -e 91.574951
+N -t 14.035772 -n 1 -e 91.574788
+N -t 14.035772 -n 0 -e 91.574807
+N -t 14.035772 -n 4 -e 91.574932
+N -t 14.035772 -n 3 -e 91.574970
+r -t 14.036587098 -Hs 7 -Hd -1 -Ni 7 -Nx 542.15 -Ny 308.11 -Nz 0.00 -Ne 91.574933 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+r -t 14.036587271 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.574808 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+r -t 14.036587405 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.574971 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+r -t 14.036587468 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.574808 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+r -t 14.036612098 -Hs 7 -Hd -1 -Ni 7 -Nx 542.15 -Ny 308.11 -Nz 0.00 -Ne 91.574933 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+r -t 14.036612271 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.574808 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+r -t 14.036612405 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.574971 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+r -t 14.036612468 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.574808 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 6.255 -Id -1.255 -It message -Il 44 -If 0 -Ii 41 -Iv 32 
+s -t 14.050570599 -Hs 7 -Hd -1 -Ni 7 -Nx 542.29 -Ny 308.08 -Nz 0.00 -Ne 91.574933 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+s -t 14.051205599 -Hs 7 -Hd -1 -Ni 7 -Nx 542.29 -Ny 308.08 -Nz 0.00 -Ne 91.574933 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 114 -If 0 -Ii 42 -Iv 32 
+N -t 14.051206 -n 6 -e 91.565360
+N -t 14.051206 -n 5 -e 91.565561
+N -t 14.051206 -n 2 -e 91.565542
+N -t 14.051206 -n 9 -e 91.565398
+N -t 14.051206 -n 1 -e 91.565379
+N -t 14.051206 -n 8 -e 91.565398
+N -t 14.051206 -n 3 -e 91.565561
+N -t 14.051206 -n 4 -e 91.565523
+N -t 14.051207 -n 0 -e 91.565398
+r -t 14.052117899 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.565360 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052118179 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.565561 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052118305 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 91.565542 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052118365 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.565398 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052118394 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 91.565379 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052118400 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.565398 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052118429 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 91.565561 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052142899 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 91.565360 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052143179 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.565561 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052143305 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 91.565542 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052143365 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 91.565398 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052143394 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 91.565379 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052143400 -Hs 8 -Hd -1 -Ni 8 -Nx 315.00 -Ny 230.00 -Nz 0.00 -Ne 91.565398 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+r -t 14.052143429 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 91.565561 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 7 -Mt 800 -Is 7.255 -Id -1.255 -It message -Il 56 -If 0 -Ii 42 -Iv 32 
+s -t 14.194083622 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 91.565542 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+s -t 14.194678622 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 91.565542 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 138 -If 0 -Ii 43 -Iv 32 
+N -t 14.194679 -n 4 -e 91.479213
+N -t 14.194679 -n 5 -e 91.479252
+N -t 14.194679 -n 3 -e 91.479252
+N -t 14.194679 -n 7 -e 91.479031
+N -t 14.194680 -n 6 -e 91.479050
+N -t 14.194680 -n 9 -e 91.479088
+N -t 14.194680 -n 1 -e 91.479069
+N -t 14.194680 -n 8 -e 91.479088
+N -t 14.194680 -n 0 -e 91.479088
+r -t 14.195782872 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 91.479213 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+r -t 14.195783058 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.479252 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+r -t 14.195783228 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 91.479252 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+r -t 14.195783324 -Hs 7 -Hd -1 -Ni 7 -Nx 543.69 -Ny 307.71 -Nz 0.00 -Ne 91.479031 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+r -t 14.195807872 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 91.479213 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+r -t 14.195808058 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.479252 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+r -t 14.195808228 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 91.479252 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+r -t 14.195808324 -Hs 7 -Hd -1 -Ni 7 -Nx 543.69 -Ny 307.71 -Nz 0.00 -Ne 91.479031 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 2 -Mt 800 -Is 2.255 -Id -1.255 -It message -Il 80 -If 0 -Ii 43 -Iv 32 
+s -t 15.116594576 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.479252 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+s -t 15.116769576 -Hs 5 -Hd -1 -Ni 5 -Nx 698.00 -Ny 230.00 -Nz 0.00 -Ne 91.479252 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 47 -Iv 32 
+N -t 15.116770 -n 2 -e 90.925916
+N -t 15.116770 -n 7 -e 90.925935
+N -t 15.116770 -n 6 -e 90.925954
+N -t 15.116770 -n 4 -e 90.926117
+N -t 15.116770 -n 9 -e 90.925992
+N -t 15.116771 -n 3 -e 90.926155
+N -t 15.116771 -n 8 -e 90.925992
+N -t 15.116771 -n 1 -e 90.925973
+N -t 15.116771 -n 0 -e 90.925992
+r -t 15.117490012 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 90.925916 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117490122 -Hs 7 -Hd -1 -Ni 7 -Nx 552.61 -Ny 305.39 -Nz 0.00 -Ne 90.925935 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117490183 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 90.925954 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117490260 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 90.926117 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117490367 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 90.925992 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117515012 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 90.925916 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117515122 -Hs 7 -Hd -1 -Ni 7 -Nx 552.61 -Ny 305.39 -Nz 0.00 -Ne 90.925935 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117515183 -Hs 6 -Hd -1 -Ni 6 -Nx 516.00 -Ny 222.00 -Nz 0.00 -Ne 90.925954 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117515260 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 90.926117 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+r -t 15.117515367 -Hs 9 -Hd -1 -Ni 9 -Nx 514.00 -Ny 80.00 -Nz 0.00 -Ne 90.925992 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 5 -Mt 800 -Is 5.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 47 -Iv 32 
+s -t 16.199879619 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 90.926155 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 
+s -t 16.200454619 -Hs 3 -Hd -1 -Ni 3 -Nx 678.00 -Ny 517.00 -Nz 0.00 -Ne 90.926155 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 90 -If 0 -Ii 48 -Iv 32 
+N -t 16.200455 -n 4 -e 90.275834
+N -t 16.200455 -n 2 -e 90.275632
+N -t 16.200455 -n 7 -e 90.275652
+N -t 16.200455 -n 1 -e 90.275690
+N -t 16.200456 -n 5 -e 90.275728
+N -t 16.200456 -n 6 -e 90.275671
+N -t 16.200456 -n 0 -e 90.275709
+N -t 16.200456 -n 8 -e 90.275709
+N -t 16.200456 -n 9 -e 90.275709
+r -t 16.201175131 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 90.275834 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 
+r -t 16.201175225 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 90.275632 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 
+r -t 16.201175429 -Hs 7 -Hd -1 -Ni 7 -Nx 563.10 -Ny 302.65 -Nz 0.00 -Ne 90.275652 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 
+r -t 16.201175449 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 90.275690 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 
+r -t 16.201200131 -Hs 4 -Hd -1 -Ni 4 -Nx 791.00 -Ny 413.00 -Nz 0.00 -Ne 90.275834 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 
+r -t 16.201200225 -Hs 2 -Hd -1 -Ni 2 -Nx 750.00 -Ny 350.00 -Nz 0.00 -Ne 90.275632 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 
+r -t 16.201200429 -Hs 7 -Hd -1 -Ni 7 -Nx 563.10 -Ny 302.65 -Nz 0.00 -Ne 90.275652 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 
+r -t 16.201200449 -Hs 1 -Hd -1 -Ni 1 -Nx 429.00 -Ny 518.00 -Nz 0.00 -Ne 90.275690 -Nl RTR -Nw --- -Ma 0 -Md ffffffff -Ms 3 -Mt 800 -Is 3.255 -Id -1.255 -It message -Il 32 -If 0 -Ii 48 -Iv 32 

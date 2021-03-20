@@ -1,0 +1,36 @@
+Comparision Energy:
+
+NO.of nodes
+
+# plot "nodesVSthrou.csv" using 1:2 with linespoints title "AODV", "nodesVSthrou.csv" using 1:3 with linespoints title "DSR"
+ 
+ plot "nodesVSpdr.csv" using 1:3 with linespoints title "AODV", "nodesVSpdr.csv" using 1:2 with linespoints title "DSR"
+
+ plot "nodesVSe2e.csv" using 1:2 with linespoints title "AODV", "nodesVSe2e.csv" using 1:3 with linespoints title "DSR"
+
+Pkt
+ plot "pktVSthrou.csv" using 1:3 with linespoints title "AODV", "pktVSthrou.csv" using 1:2 with linespoints title "DSR"
+
+ plot "pktVSpdr.csv" using 1:3 with linespoints title "AODV", "pktVSpdr.csv" using 1:2 with linespoints title "DSR"
+
+ plot "pktVe2e.csv" using 1:2 with linespoints title "AODV", "pktVSe2e.csv" using 1:3 with linespoints title "DSR"
+
+Speed
+plot "speedVSthrou.csv" using 1:3 with linespoints title "AODV", "spedVSthrou.csv" using 1:2 with linespoints title "DSR"
+
+plot "speedVSpdr.csv" using 1:3 with linespoints title "AODV", "speedVSpdr.csv" using 1:2 with linespoints title "DSR"
+
+plot "speedVe2e.csv" using 1:2 with linespoints title "AODV", "speedVSe2e.csv" using 1:3 with linespoints title "DSR"
+
+
+Instant throughputs:
+# awk -f inst_through.awk
+
+
+
+
+
+
+
+
+
